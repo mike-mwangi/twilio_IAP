@@ -1,3 +1,12 @@
+Group 1
+--------------------------
+122466 Joan Waweru
+120138 Michael Mwangi
+108130 Jafer Abdikadir
+116889 Victoria Nyamai
+123172 Mohamed Gudle
+
+
 This is an API consumption experiment
 
 We first create an account at Twilio
