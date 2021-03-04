@@ -31,5 +31,29 @@ $result = $client->messages->create(
     )
 );
 
-echo '<h1>Message :</h1>' .$result->status;
 // print($result->status);
+?>
+
+<body>
+  <h1>Status: <?php echo $result->status ?></h1>
+
+
+</body>
+
+<style>
+    h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 370px;
+        color: #fff;
+        font-size: 3rem;
+    }
+    body{
+        background-color: #808080;
+
+    }
+
+
+
+</style>
